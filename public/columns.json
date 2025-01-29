@@ -1,0 +1,28 @@
+
+  [
+    {
+      "id": "id",
+      "label": "ID",
+      "visible": true,
+      "fieldType": "number"
+    },
+    {
+      "id": "name",
+      "label": "Name",
+      "visible": true,
+      "fieldType": "text"
+    },
+    {
+      "id": "created_at",
+      "label": "Created At",
+      "visible": true,
+      "fieldType": "date"
+    },
+    {
+      "id": "amount",
+      "label": "Amount",
+      "visible": true,
+      "fieldType": "currency"
+    }
+  ]
+  
