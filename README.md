@@ -1,8 +1,35 @@
-# React + Vite
+# Dynamic-grid
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Editing a Row
+
+Click on  toggle to changes mode.
+
+Press save Button to save changes.
+
+➕ Adding a New Row
+
+Click the Add Row button.
+
+Fill in the form in the modal.
+
+Click Save, and the new row will be added.
+
+🔄 Sorting & Pagination
+
+Click column headers to sort data.
+
+Use pagination controls to navigate pages.
+
+🛠️ Tech Stack
+
+React (UI framework)
+
+Material-UI (MUI) (UI components)
+
+JSON Server (Mock API backend)
+
+Axios (HTTP client for API calls)
+
+
